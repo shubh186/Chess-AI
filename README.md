@@ -1,1 +1,1 @@
-# Chess-AI
+Chess AI Game 
